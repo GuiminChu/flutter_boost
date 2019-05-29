@@ -36,6 +36,7 @@ import android.widget.FrameLayout;
 import android.widget.ProgressBar;
 
 import com.taobao.idlefish.flutterboost.BoostFlutterView;
+import com.taobao.idlefish.flutterboost.Debuger;
 import com.taobao.idlefish.flutterboost.FlutterBoostPlugin;
 import com.taobao.idlefish.flutterboost.interfaces.IFlutterViewContainer;
 
